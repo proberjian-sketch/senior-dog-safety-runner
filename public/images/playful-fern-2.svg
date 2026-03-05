@@ -1,0 +1,7 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#DBCAB6"/>
+  <rect x="220" y="330" width="760" height="190" rx="30" fill="#C7A786"/>
+  <path d="M280 390C350 340 450 340 520 390" stroke="#F3E6D6" stroke-width="8"/>
+  <path d="M500 450C570 400 670 400 740 450" stroke="#F3E6D6" stroke-width="8"/>
+  <text x="120" y="140" fill="#2A241F" font-size="52" font-family="Arial">Playful Fern Product Placeholder 2</text>
+</svg>

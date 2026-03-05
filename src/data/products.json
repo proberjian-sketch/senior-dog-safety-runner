@@ -1,0 +1,62 @@
+[
+  {
+    "id": "classic-oat-pathway",
+    "name": "Classic Oat Pathway Runner",
+    "collection": "classic-solid",
+    "collectionName": "Classic Solid",
+    "price": "$159",
+    "sizes": ["2.5x8 ft", "2.5x10 ft", "2.5x12 ft"],
+    "images": [
+      "/images/classic-oat-1.svg",
+      "/images/classic-oat-2.svg"
+    ],
+    "keyBenefits": [
+      "Slip-resistant top texture for stable paw placement",
+      "Waterproof barrier prevents moisture from reaching floors",
+      "Thick comfort core eases pressure on stiff joints",
+      "Low-profile edge supports easy stepping"
+    ],
+    "care": "Vacuum weekly. Spot clean with mild soap. Machine wash cold on gentle cycle and air dry.",
+    "description": "A neutral premium runner that quietly blends into modern homes while giving senior dogs a safer path."
+  },
+  {
+    "id": "modern-grid-stone",
+    "name": "Modern Grid Stone Runner",
+    "collection": "modern-decor",
+    "collectionName": "Modern Decor",
+    "price": "$179",
+    "sizes": ["2.5x8 ft", "2.5x10 ft", "2.5x14 ft"],
+    "images": [
+      "/images/modern-grid-1.svg",
+      "/images/modern-grid-2.svg"
+    ],
+    "keyBenefits": [
+      "Directional traction for hallway transitions",
+      "Fully waterproof shield for accidents and spills",
+      "Dense orthopedic cushion to support arthritic movement",
+      "Grip-tech base keeps the runner anchored"
+    ],
+    "care": "Shake out debris. Wipe with damp cloth. Wash on cold with non-bleach detergent and hang dry.",
+    "description": "A geometric design that elevates your interior while creating a dependable runway for older dogs."
+  },
+  {
+    "id": "playful-hearth-fern",
+    "name": "Playful Hearth Fern Runner",
+    "collection": "playful-pets",
+    "collectionName": "Playful Pets",
+    "price": "$169",
+    "sizes": ["2.5x6 ft", "2.5x8 ft", "2.5x10 ft"],
+    "images": [
+      "/images/playful-fern-1.svg",
+      "/images/playful-fern-2.svg"
+    ],
+    "keyBenefits": [
+      "Micro-texture face helps paws grip while standing",
+      "Accident-ready waterproof layer for easy cleanup",
+      "Comfort foam helps reduce impact during daily walks",
+      "Anti-slide base for confident movement"
+    ],
+    "care": "Spot clean as needed. Machine wash on delicate. Lay flat to dry before use.",
+    "description": "Warm, charming styling for family spaces with the same senior-dog safety performance underneath."
+  }
+]

@@ -1,0 +1,8 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#D8E2DD"/>
+  <rect x="180" y="290" width="840" height="260" fill="#EEF3EF"/>
+  <path d="M180 350H1020" stroke="#9BB1A5" stroke-width="8"/>
+  <path d="M180 420H1020" stroke="#9BB1A5" stroke-width="8"/>
+  <path d="M180 490H1020" stroke="#9BB1A5" stroke-width="8"/>
+  <text x="120" y="140" fill="#2A241F" font-size="52" font-family="Arial">Modern Grid Product Placeholder 1</text>
+</svg>

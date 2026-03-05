@@ -1,0 +1,9 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#C8D5CF"/>
+  <rect x="250" y="300" width="700" height="240" fill="#EDF2EE"/>
+  <path d="M330 300V540" stroke="#95AA9E" stroke-width="7"/>
+  <path d="M510 300V540" stroke="#95AA9E" stroke-width="7"/>
+  <path d="M690 300V540" stroke="#95AA9E" stroke-width="7"/>
+  <path d="M870 300V540" stroke="#95AA9E" stroke-width="7"/>
+  <text x="120" y="140" fill="#2A241F" font-size="52" font-family="Arial">Modern Grid Product Placeholder 2</text>
+</svg>

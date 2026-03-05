@@ -1,0 +1,8 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#D8E2DD"/>
+  <path d="M200 220H1000V580H200V220Z" fill="#EEF3EF"/>
+  <path d="M200 300H1000" stroke="#95AA9E" stroke-width="8"/>
+  <path d="M200 380H1000" stroke="#95AA9E" stroke-width="8"/>
+  <path d="M200 460H1000" stroke="#95AA9E" stroke-width="8"/>
+  <text x="140" y="140" fill="#2A241F" font-size="52" font-family="Arial">Modern Decor Collection Placeholder</text>
+</svg>

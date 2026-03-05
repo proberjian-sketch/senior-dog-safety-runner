@@ -1,0 +1,10 @@
+<svg width="900" height="600" viewBox="0 0 900 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="600" fill="#E2E5E1"/>
+  <g stroke="#5C7A6D" stroke-width="8">
+    <path d="M120 220L780 220"/>
+    <path d="M120 280L780 280"/>
+    <path d="M120 340L780 340"/>
+    <path d="M120 400L780 400"/>
+  </g>
+  <text x="80" y="120" fill="#2A241F" font-size="46" font-family="Arial">Grip Base Placeholder</text>
+</svg>

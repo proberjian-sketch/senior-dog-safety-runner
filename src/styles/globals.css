@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-linen text-ink antialiased;
+}
+
+a {
+  @apply text-inherit no-underline;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.focus-ring {
+  @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-pine focus-visible:ring-offset-2;
+}
+
+.section-heading {
+  @apply font-serif text-3xl leading-tight md:text-5xl;
+}
+
+.section-subheading {
+  @apply mt-4 max-w-2xl text-base text-muted md:text-lg;
+}

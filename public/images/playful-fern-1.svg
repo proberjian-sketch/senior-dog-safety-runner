@@ -1,0 +1,9 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#E7D9C8"/>
+  <rect x="180" y="310" width="840" height="220" rx="48" fill="#D1B395"/>
+  <circle cx="370" cy="420" r="36" fill="#F5E9DA"/>
+  <circle cx="560" cy="420" r="36" fill="#F5E9DA"/>
+  <circle cx="750" cy="420" r="36" fill="#F5E9DA"/>
+  <circle cx="940" cy="420" r="36" fill="#F5E9DA"/>
+  <text x="120" y="140" fill="#2A241F" font-size="52" font-family="Arial">Playful Fern Product Placeholder 1</text>
+</svg>
