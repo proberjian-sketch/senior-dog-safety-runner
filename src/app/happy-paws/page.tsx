@@ -37,11 +37,23 @@ export default function HappyPawsPage() {
 
       <div className="mt-10 grid gap-4 md:grid-cols-2">
         {reviews.map((review) => (
-          <article key={review.name} className="rounded-2xl border border-ink/10 bg-white p-5">
+          <article
+            key={`${review.name}-${review.location}`}
+            className="rounded-2xl border border-ink/10 bg-white p-5"
+          >
+            <div className="relative aspect-video overflow-hidden rounded-xl">
+              <Image
+                src={review.imageSrc}
+                alt={review.imageAlt}
+                fill
+                sizes="(max-width: 768px) 100vw, 50vw"
+                className="object-cover"
+              />
+            </div>
             <p className="text-clay">{'★'.repeat(review.rating)}</p>
-            <p className="mt-3 text-muted">“{review.quote}”</p>
+            <blockquote className="mt-3 text-muted">“{review.quote}”</blockquote>
             <p className="mt-4 text-xs font-semibold uppercase tracking-widest text-ink/70">
-              {review.name}
+              {review.name}, {review.location}
             </p>
           </article>
         ))}
